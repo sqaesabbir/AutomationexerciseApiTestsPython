@@ -1,0 +1,5 @@
+pytest==8.0.0
+pytest-playwright==0.4.4
+requests==2.31.0
+python-dotenv==1.0.0
+pytest-html==4.1.1 
